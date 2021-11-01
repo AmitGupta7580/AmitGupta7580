@@ -66,7 +66,7 @@
 <code><img height="40" width="40" src="https://img.icons8.com/fluency/48/000000/flutter.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/dart.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+<code><img height="40" width="40" src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>]
 <code><img height="40" width="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/Ros_logo.png"></code>]
 <code><img height="40" width="40" src="https://px4.io/wp-content/uploads/2020/03/PX4_logo_black_large_resized_compressed-compressor.png"></code>]
@@ -75,3 +75,38 @@
 
 #
 
+<!-- My contribution streak -->
+
+## 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/AmitGupta7580/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitGupta7580#version3"/>
+  </a>
+</p>
+
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/AmitGupta7580?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+
+<br/>
+
+<!-- GitHub Analytics -->
+
+### ⚙️ GitHub Analytics
+<p align="center">
+<a href="https://github.com/AmitGupta7580">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmitGupta7580&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmitGupta7580&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<br/>
+
+<!-- Want to Connect? -->
+
+### 🤝🏻 Want to Connect?
+<a href="https://twitter.com/AmitGup98036159">
+  <img align="left" alt="Amit Gupta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/amit-gupta-7580/">
+  <img align="left" alt="Amit Gupta | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
