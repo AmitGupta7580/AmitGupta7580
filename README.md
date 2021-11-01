@@ -15,14 +15,14 @@
 <br/>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-✔ I'm an CSE Undergraduate at Motilal Nehru National Institute of Technology, Allahabad (MNNIT).<br>
+✔ I'm am CSE Undergraduate at Motilal Nehru National Institute of Technology, Allahabad (MNNIT).<br>
 <a target="_blank">
   <img align="right" height="250" width="250" alt="GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif">
 </a>
 ✔ Fields of Intrest :
-- Competative Coding<br>
-- FullStack Development<br>
-- Exploiting Vulnerable Machinexs (CyberSecurity)<br>
+- Competitive Coding<br>
+- Software Development<br>
+- Exploiting Vulnerable Machine (CyberSecurity)<br>
 - Quantum Computing (Qiskit) <br>
 - Autonomus Vechicles (Robotics)<br>
 
