@@ -104,9 +104,18 @@
 <!-- Want to Connect? -->
 
 ### 🤝🏻 Want to Connect?
-<a href="https://twitter.com/AmitGup98036159">
-  <img align="left" alt="Amit Gupta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/amit-gupta-7580/">
-  <img align="left" alt="Amit Gupta | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Amit Gupta | LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/AmitGup98036159">
+  <img align="left" alt="Amit Gupta | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UC7WE1ZcP5e9t7WTo3Fg8o7g">
+  <img align="left" alt="Amit Gupta | You Tube" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/youtube.svg" />
+</a>
+<a href="https://codeforces.com/profile/ammmy758000">
+  <img align="left" alt="Amit Gupta | Codeforces" width="30px" src="https://camo.githubusercontent.com/f98022613c53f3af924d19b203a429fac6de0f6fc0e6a465e638f89cb83a8e9c/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d54567951646c69726b496f2f576e6468456677725369492f41414141414141414250592f56586273687a6654746c5539694b782d756257724268567a334766724457743667435063424741595943772f73313630302f636f6465666f7263652e706e67" />
+</a>
+<a href="https://ctftime.org/team/155001">
+  <img align="left" alt="Ashes | CTF Time" width="30px" src="https://pbs.twimg.com/profile_images/2189766987/ctftime-logo-avatar_400x400.png" />
 </a>
