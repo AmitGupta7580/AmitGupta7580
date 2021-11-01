@@ -58,7 +58,7 @@
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript--v2.png"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>]
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 
 #
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -67,9 +67,9 @@
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/dart.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>]
-<code><img height="40" width="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/Ros_logo.png"></code>]
-<code><img height="40" width="40" src="https://px4.io/wp-content/uploads/2020/03/PX4_logo_black_large_resized_compressed-compressor.png"></code>]
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>
+<code><img height="40" width="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/Ros_logo.png"></code>
+<code><img height="40" width="40" src="https://px4.io/wp-content/uploads/2020/03/PX4_logo_black_large_resized_compressed-compressor.png"></code>
 
 <br/>
 
