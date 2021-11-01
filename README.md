@@ -19,7 +19,7 @@
 <a target="_blank">
   <img align="right" height="250" width="250" alt="GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif">
 </a>
-✔ Field of Intrest are :
+✔ Fields of Intrest :
 - Competative Coding<br>
 - FullStack Development<br>
 - Exploiting Vulnerable Machinexs (CyberSecurity)<br>
