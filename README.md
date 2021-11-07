@@ -15,7 +15,7 @@
 <br/>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-✔ I'm am CSE Undergraduate at Motilal Nehru National Institute of Technology, Allahabad (MNNIT).<br>
+✔ CSE Undergraduate at Motilal Nehru National Institute of Technology, Allahabad (MNNIT).<br>
 <a target="_blank">
   <img align="right" height="250" width="250" alt="GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif">
 </a>
